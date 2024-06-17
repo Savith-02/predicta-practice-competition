@@ -1,1 +1,9 @@
+# Ignore all CSV files
 *.csv
+
+# But don't ignore product_descriptions.csv
+!product_descriptions.csv
+!quntity_sum_sorted_by_date_complete.csv
+!historical_data.csv
+!my_submission_final.csv
+!submission_key.csv
